@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Python_ML_Experiments">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OpenCV练习.zip!/" />
+      <root url="jar://$PROJECT_DIR$/bike_analyze-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Bike-Sharing-Linear-Regression-Model-master.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
